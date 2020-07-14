@@ -1,16 +1,16 @@
-### Hi there 👋
+# Matheus Domingues 👨🏼‍💻
 
-<!--
-**MatheusDomingues/MatheusDomingues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/MatheusDomingues)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/matheus-domingues-0000632b/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:matheus.luige120@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/maath.domingues/)
 
-Here are some ideas to get you started:
+### Hellooo there! 👋 Welcome to my profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Matheus and I'm a Front-end Developer, who is passionate about Javascript technologies.
+
+- 🔭 I’m currently working on web development with Wordpress as a Freelancer.
+- 😁 Looking for a Fulltime Work.
+- 🌱 I’m currently learning Javascript technologies improvements: React, Node.js, React Native...
+- 💬 Ask me about: tech, music, instruments, games, movies and series.
+- ⚡ Technologies: React, Node.js and React Native.
