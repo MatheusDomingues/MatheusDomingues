@@ -13,4 +13,4 @@ My name is Matheus and I'm a Front-end Developer, who is passionate about Javasc
 - 😁 Looking for a Fulltime CLT Work.
 - 🌱 I’m currently learning Javascript technologies improvements: React, Node.js, React Native...
 - 💬 Ask me about: tech, music, instruments, games, movies and series.
-- ⚡ Technologies: React, Node.js, React Native, Express, PostgreSQL, SQLite, MySQL, Python, Docker, Wordpress and WooCommerce.
+- ⚡ Skills: HTML, CSS, JavaScript, React, Node.js, React Native, Express, PostgreSQL, SQLite, MySQL, Python, Docker, Wordpress and WooCommerce.
