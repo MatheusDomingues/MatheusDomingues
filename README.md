@@ -9,8 +9,7 @@
 
 My name is Matheus and I'm a Front-end Developer, who is passionate about Javascript technologies.
 
-- 🔭 I’m currently working on web development with Wordpress as a Freelancer.
-- 😁 Looking for a Fulltime CLT Work.
+- 🔭 Looking for a Fulltime CLT Work.
 - 🌱 I’m currently learning Javascript technologies improvements: React, Node.js, React Native...
 - 💬 Ask me about: tech, music, instruments, games, movies and series.
-- ⚡ Skills: HTML, CSS, JavaScript, React, Node.js, React Native, Express, PostgreSQL, SQLite, MySQL, Python, Docker, Wordpress and WooCommerce.
+- ⚡ Skills: HTML, CSS, JavaScript, React, Node.js, React Native, SQLite and the CMS Wordpress.
