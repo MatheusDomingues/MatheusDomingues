@@ -9,7 +9,7 @@
 
 My name is Matheus and I'm a Front-end Developer, who is passionate about Javascript technologies.
 
-- 🔭 Looking for a Fulltime CLT or PJ Job.
-- 🌱 I’m currently learning Javascript technologies improvements: React, Nextjs, Node.js, React Native...
+- 🔭 Working on HDN Digital as Front-end Developer.
+- 🌱 I’m currently improving my skills with Javascript and learning about C#, DotNet. 
 - 💬 Ask me about: tech, music, instruments, games, movies and series.
-- ⚡ Skills: HTML, CSS, Javascript, Typescript, ReactJS, Next.js, Node.js, React Native, SQLite and the CMS Wordpress.
+- ⚡ Skills: HTML, CSS, Javascript, Typescript, React, Next, Material UI, ChakraUI, Styled Components, Firebase Realtime, Effector, ContextAPI, MirageJS, React-Native, Native-Base, Cypress, Cucumber, Jest, Enzyme, Git, GitHub, Jira, Bitbucket, Azure, npm, yarn, Scrum and Kanban.
