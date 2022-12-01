@@ -9,7 +9,7 @@
 
 My name is Matheus and I'm a Front-end Developer, who is passionate about Javascript technologies.
 
-- 🔭 Working on HDN Digital as Front-end Developer.
-- 🌱 I’m currently improving my skills with Javascript and learning about C#, DotNet. 
+- 🔭 Working on Levva as Product Owner.
+- 🌱 I’m currently improving my skills with Agile, Javascript and learning about C#, DotNet. 
 - 💬 Ask me about: tech, music, instruments, games, movies and series.
 - ⚡ Skills: HTML, CSS, Javascript, Typescript, React, Next, Material UI, ChakraUI, Styled Components, Firebase Realtime, Effector, ContextAPI, MirageJS, React-Native, Native-Base, Cypress, Cucumber, Jest, Enzyme, Git, GitHub, Jira, Bitbucket, Azure, npm, yarn, Scrum and Kanban.
