@@ -6,9 +6,9 @@
 
 ### Hello there! 👋 Welcome to my profile.
 
-My name is Matheus and I'm a Front-end Developer, who is passionate about Javascript technologies.
+My name is Matheus and I'm a Full-stack Developer, who is passionate about technologies.
 
-- 🔭 Working on Levva as Product Owner.
-- 🌱 I’m currently improving my skills with Agile, Javascript and learning about C#, DotNet. 
+- 🔭 Working on Levva as Systems Analyst.
+- 🌱 I’m currently improving my Javascript and C# skills.
 - 💬 Ask me about: tech, music, instruments, games, movies and series.
-- ⚡ Skills: HTML, CSS, Javascript, Typescript, React, Next, Material UI, ChakraUI, Styled Components, Firebase Realtime, Effector, ContextAPI, MirageJS, React-Native, Native-Base, Cypress, Cucumber, Jest, Enzyme, Git, GitHub, Jira, Bitbucket, Azure, npm, yarn, Scrum and Kanban.
+- ⚡ Skills: HTML, CSS, Javascript, Typescript, React, Next, Firebase Realtime, Effector, ContextAPI, MirageJS, React-Native, Cypress, Cucumber, Jest, Enzyme, NodeJS, Express, NestJS, Prisma, C#, .Net, PostgreSQL, SQLite, MySQL, Jira, Azure, Scrum and Kanban.
