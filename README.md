@@ -1,7 +1,7 @@
 ## Olá! Eu sou Matheus Domingues, desenvolvedor web e mobile.
 
 <p>Sou formado em Análise e Desenvolvimento de Sistemas e também atuo como Desenvolvedor de Software.</p>
-<p>Atualmente trabalho na <b>levva</b>, e estamos contratando, <a href="https://levva.io/carreiras">clica aqui</a>.</p>
+<p>Atualmente trabalho na <b>levva</b>, e estamos contratando, <a href="https://levva.io/carreiras">clica aqui</a> para ver as vagas abertas.</p>
 
 <div align="left">
   <a href="https://github.com/MatheusDomingues">
