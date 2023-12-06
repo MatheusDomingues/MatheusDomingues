@@ -1,14 +1,30 @@
-# Matheus Domingues 👨🏼‍💻
+## Olá! Eu sou Matheus Domingues, desenvolvedor web e mobile.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusdomingues120/)](https://www.linkedin.com/in/matheusdomingues120/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.luige120@gmail.com)](mailto:matheus.luige120@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/maath.domingues/)](https://www.instagram.com/maath.domingues/)
+<p>Sou formado em Análise e Desenvolvimento de Sistemas e também atuo como Desenvolvedor de Software.</p>
+<p>Atualmente trabalho na <b>levva</b>, e estamos contratando, <a href="https://levva.io/carreiras">clica aqui</a>.</p>
 
-### Hello there! 👋 Welcome to my profile.
-
-My name is Matheus and I'm a Full-stack Developer, who is passionate about technologies.
-
-- 🔭 Working on Levva as Systems Analyst.
-- 🌱 I’m currently improving my Javascript and C# skills.
-- 💬 Ask me about: tech, music, instruments, games, movies and series.
-- ⚡ Skills: HTML, CSS, Javascript, Typescript, React, Next, Firebase Realtime, Effector, ContextAPI, MirageJS, React-Native, Cypress, Cucumber, Jest, Enzyme, NodeJS, Express, NestJS, Prisma, C#, .Net, PostgreSQL, SQLite, MySQL, Jira, Azure, Scrum and Kanban.
+<div align="left">
+  <a href="https://github.com/MatheusDomingues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusDomingues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDomingues&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/46606051?s=400&u=3752eb3b1de752cf1f3e3a25245357188beb75d1&v=4?width=676&height=676">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC1-3Z5z9eB9PEOpOT_iC8Bw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lucascoalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucascosta.lo77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucascoalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/MatheusDomingues/MatheusDomingues/blob/master/github-contribution-grid-snake.svg)
+ 
+</div>
