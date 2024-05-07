@@ -1,4 +1,4 @@
-## Hello, my name is Gustavo Martins dos Santos, Dev Full-Stack web and mobile.
+## Hello, my name is Matheus Domingues, Dev Full-Stack web and mobile.
 
 <p>I graduated from Systems Analysis and Development and work as a Software Developer.</p>
 
@@ -32,11 +32,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-martins-681921229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href = "mailto:gugumartin77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheus.luige120@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/MatheusDomingues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
-  ### Watch my contribution graph get eaten by the snake 🐍
-  ![Snake animation](https://github.com/MatheusDomingues/MatheusDomingues/blob/output/github-contribution-grid-snake.svg)
  
-</div>
