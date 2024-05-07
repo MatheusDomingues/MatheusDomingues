@@ -1,4 +1,4 @@
-## Hello, my name is Matheus Domingues, Dev Full-Stack web and mobile.
+## Hello! My name is Matheus Domingues and I'm a Full-Stack developer, web and mobile.
 
 <p>I graduated from Systems Analysis and Development and work as a Software Developer.</p>
 
