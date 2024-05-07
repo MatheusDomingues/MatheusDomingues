@@ -1,6 +1,6 @@
-## Olá! Eu sou Matheus Domingues, desenvolvedor web e mobile.
+## Hello, my name is Gustavo Martins dos Santos, Dev Full-Stack web and mobile.
 
-<p>Sou formado em Análise e Desenvolvimento de Sistemas e também atuo como Desenvolvedor de Software.</p>
+<p>I graduated from Systems Analysis and Development and work as a Software Developer.</p>
 
 <div align="left">
   <a href="https://github.com/MatheusDomingues">
