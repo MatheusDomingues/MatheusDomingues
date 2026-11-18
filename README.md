@@ -1,41 +1,19 @@
-## Hello! My name is Matheus Domingues and I'm a Full-Stack developer, web and mobile.
+### Hi, I'm Matheus
 
-<p>I graduated from Systems Analysis and Development and work as a Software Developer.</p>
+Senior Full-stack Engineer & Tech Lead based in Brazil, working remotely.
 
-<div align="center">
-  <a href="https://github.com/MatheusDomingues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusdomingues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdomingues&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+I have 6 years of experience building products from scratch and evolving systems in production: marketplaces, internal management systems, B2B portals, AI platforms and fintech. I was tech lead at levva and Adalink, and today I work close to product at Pagar, supporting architecture decisions and reviewing the team's code.
 
-<div align="center">
-  <a href="https://github.com/MatheusDomingues">
-</div>
+**Stack**
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="NodeJs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="NestJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt=".Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-### Social Networks:
+- **Front end:** TypeScript, React, Next.js, Vite
+- **Back end:** Node.js (NestJS, Express, Fastify), Python (FastAPI, Django), C# (.NET)
+- **Data:** PostgreSQL, MongoDB, MariaDB, MySQL, Redis
+- **Cloud & testing:** AWS, Azure, Docker, Jest, Cypress
+- **AI:** LLM integrations (OpenAI, Anthropic, Gemini, Grok and others)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/matheusdomingues120" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href = "mailto:matheus.luige120@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/maath.domingues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+Most of my professional work lives in private repositories. The public ones here are boilerplates and studies.
 
-  ### Watch my contribution graph get eaten by the snake 🐍
-  ![Snake animation](https://github.com/MatheusDomingues/MatheusDomingues/blob/master/github-contribution-grid-snake.svg)  
-</div>
-  
- 
+**Let's talk:** [LinkedIn](https://www.linkedin.com/in/matheusdomingues120/)
+
+![Contribution snake](github-contribution-grid-snake.svg)
