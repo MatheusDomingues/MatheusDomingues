@@ -28,6 +28,6 @@ I have 6 years of experience building products from scratch and evolving systems
 | **Back end** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py,fastapi,django,cs,dotnet" height="40" alt="Node.js, NestJS, Express, Python, FastAPI, Django, C#, .NET" /> |
 | **Data** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma" height="40" alt="PostgreSQL, MongoDB, MySQL, Redis, Prisma" /> |
 | **Cloud & testing** | <img src="https://skillicons.dev/icons?i=aws,azure,docker,jest,cypress,git" height="40" alt="AWS, Azure, Docker, Jest, Cypress, Git" /> |
-| **AI** | LLM integrations: OpenAI, Anthropic, Gemini, Grok and others |
+| **AI Integration** | <img src="ai-integrations.svg" height="87" alt="OpenAI, Anthropic, Gemini, Grok, DeepSeek, Mistral, Llama, Qwen, Perplexity, Groq, OpenRouter, Ollama, Hugging Face, LangChain, ElevenLabs" /> |
 
 Most of my professional work lives in private repositories. Here you'll find API starters in NestJS, Express, Fastify, .NET and Go, plus a React dashboard template.
