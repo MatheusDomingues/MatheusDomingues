@@ -23,11 +23,13 @@ I have 6 years of experience building products from scratch and evolving systems
 
 ### Stack
 
-| **Front end** | <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind" height="40" alt="TypeScript, React, Next.js, Vite, Tailwind CSS" /> |
+| **Front end** | <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,tailwind" height="40" alt="JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS" /> |
 |:---|:---|
+| **Mobile** | <img src="mobile.svg" height="40" alt="React Native, Expo, Flutter" /> |
 | **Back end** | <img src="backend.svg" height="40" alt="Node.js, NestJS, Express, Fastify, Python, FastAPI, Django, C#, .NET" /> |
 | **Data** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma" height="40" alt="PostgreSQL, MongoDB, MySQL, Redis, Prisma" /> |
-| **Cloud & testing** | <img src="https://skillicons.dev/icons?i=aws,azure,docker,jest,cypress,git" height="40" alt="AWS, Azure, Docker, Jest, Cypress, Git" /> |
+| **Testing** | <img src="testing.svg" height="40" alt="Jest, Vitest, Cypress, Playwright" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,azure,docker,git" height="40" alt="AWS, Azure, Docker, Git" /> |
 | **AI Integration** | <img src="ai-integrations.svg" height="87" alt="OpenAI, Anthropic, Gemini, Grok, DeepSeek, Mistral, Llama, Qwen, Perplexity, Groq, OpenRouter, Ollama, Hugging Face, LangChain, ElevenLabs" /> |
 
 Most of my professional work lives in private repositories. Here you'll find API starters in NestJS, Express, Fastify, .NET and Go, plus a React dashboard template.
