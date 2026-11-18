@@ -32,4 +32,4 @@ I have 6 years of experience building products from scratch and evolving systems
 | **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git" height="40" alt="AWS, Azure, Google Cloud, Docker, Git" /> |
 | **AI Integration** | <img src="ai-integrations.svg" height="87" alt="OpenAI, Anthropic, Gemini, Grok, DeepSeek, Mistral, Llama, Qwen, Perplexity, Groq, OpenRouter, Ollama, Hugging Face, LangChain, ElevenLabs" /> |
 
-Most of my professional work lives in private repositories. Here you'll find API starters in NestJS, Express, Fastify, .NET and Go, plus a React dashboard template.
+Most of my professional work lives in private repositories inside company organizations. Here you'll find API starters in NestJS, Express, Fastify, .NET and Go, plus a React dashboard template.
