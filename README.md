@@ -10,7 +10,7 @@
 
 ### Hi, I'm Matheus
 
-Senior Full-stack Engineer & Tech Lead based in Campinas, Brazil (UTC-3), working remotely, with near-full overlap with US East Coast hours and 5 to 6 hours with Europe.
+Senior Full-stack Engineer & Tech Lead based in Campinas, Brazil (UTC-3), working remotely.
 
 I have 6 years of experience building products from scratch and evolving systems in production: marketplaces, internal management systems, B2B portals and AI platforms. I was tech lead at levva and Adalink, and today I work close to product at Pagar, supporting architecture decisions and reviewing the team's code.
 
